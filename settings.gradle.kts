@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PRM392_Quizlet"
+rootProject.name = "ProjectPRN392Flashcard"
 include(":app")
  
