@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#8A9AEC</color> <!-- Màu chính -->
+    <color name="colorSecondary">#FF4081</color> <!-- Màu phụ -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Màu nền -->
+
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="navigationBarColor1">#FFFFFF</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="myWindowBackground">#F5F5F5</color>
+    <color name="textColorPrimary1">#212121</color>
+    <color name="textColorSecondary1">#757575</color>
+    <color name="actionBarTextColor">#F8F7F7</color>
+    <color name="purple">#8692f7</color>
+
+    <!-- Các màu bị thiếu -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
